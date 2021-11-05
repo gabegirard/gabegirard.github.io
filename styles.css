@@ -90,7 +90,7 @@ nav a {
   transition: opacity 150ms ease-in-out;
   display: block;
   text-align: center;
-  padding: 1rem;
+  padding: 0.25rem;
   text-decoration: none;
 }
 
